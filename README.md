@@ -1,4 +1,4 @@
-# spaCy Semantic Similarity Exploration
+# Semantic Similarity using spaCy
 
 This repository contains two programs using spaCy to explore the semantic similarities between texts.
 
